@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**bigmaster007/bigmaster007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Je suis Eric Ghislain AWONO (**bigmaster007**),
+Développeur web et mobile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
