@@ -2,7 +2,8 @@
 
 
 Je suis Eric Ghislain AWONO (**bigmaster007**),
-Développeur web et mobile.
+Développeur web et mobile, actuellement je travaille chez YOUPINOVA en atnt que développeur #FullStack.
+Camerounais de nationalité, je suis au Mali depuis plus de deux ans déjà.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
